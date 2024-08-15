@@ -1,0 +1,4 @@
+①points = new int[4];
+②weights = new double[5];
+③answers = new boolean[3];
+④names = new String[3];
