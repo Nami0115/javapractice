@@ -1,4 +1,4 @@
-public class practice3_4 {
+public class Practice3_4 {
 	public static void main(String[] args) {
 		boolean tenki = true;
 		

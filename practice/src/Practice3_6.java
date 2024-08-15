@@ -1,4 +1,4 @@
-public class practice3_6 {
+public class Practice3_6 {
 	public static void main(String[] args) {
 		System.out.println("【数あてゲーム】");
 		int ans = new java.util.Random().nextInt(10);

@@ -1,4 +1,4 @@
-public class practice1_3 {
+public class Practice1_3 {
 	public static void main(String[] args) {
 		boolean authenticity = true;
 		char word = '駆';

@@ -1,4 +1,4 @@
-public class practice3_3 {
+public class Practice3_3 {
 	public static void main(String[] args) {
 		int isHungry = new java.util.Random().nextInt(2);
 		String food = "ラーメン";
