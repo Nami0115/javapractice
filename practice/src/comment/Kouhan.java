@@ -9,6 +9,6 @@ public class Kouhan {
 		System.out.println("飛車さん、角さん。もういいでしょう。");
 		System.out.println("この紋所が目にはいらぬか！");
 		Thread.sleep(3000);
-		comment.Zenhan.doTogame();
+		Zenhan.doTogame();
 	}
 }
