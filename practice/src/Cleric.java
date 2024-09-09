@@ -1,9 +1,37 @@
 public class Cleric {
-	String name;
-	int hp = 50;
-	final int MAXHP = 50;
-	int mp = 10;
-	final int MAXMP = 10;
+	private String name;
+	
+	public String getName() {
+		return this.name;
+	}
+	
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	private int hp = 50;
+	
+	public int getHp() {
+		return this.hp;
+	}
+	
+	public void setHp(int hp) {
+		this.hp = hp;
+	}
+	
+	public static final int MAXHP = 50;
+	
+	private int mp = 10;
+	
+	public int getMp() {
+		return this.mp;
+	}
+	
+	public void setMp(int mp) {
+		this.mp = mp;
+	}
+	
+	public static final int MAXMP = 10;
 	
 	public void selfAid() {
 		this.mp -= 5;
